@@ -51,17 +51,19 @@ My background combines software engineering, computer science teaching, hands-on
 
 ## Featured Projects
 
-### Spatial & Spatio-Textual Data Visualization Platform
+### [Business Email & Newsletter Infrastructure](https://github.com/Ntaflos/email-security-aws-ses-google-workspace)
+
+Hands-on business project involving AWS SES, Google Workspace, DNS records, domain authentication and email deliverability.
+
+The setup supported business email communication and newsletter/bulk email workflows, including monitoring and email authentication configuration.
+
+### [Spatial & Spatio-Textual Data Visualization Platform](https://github.com/Ntaflos/diploma_thesis_master)
 
 Academic software engineering project developed as part of my diploma thesis at the University of the Aegean.
+
 Built with Java, Spring Boot, MVC architecture, HTML, CSS, JavaScript, Leaflet, Hibernate and GeoJSON.
 
 The application allows users to import spatial data from multiple sources, execute queries, and visualize the results on an interactive map.
-
-### Business Email & Newsletter Infrastructure
-
-Hands-on business project involving AWS SES, Google Workspace, DNS records, domain authentication and email deliverability.
-The setup supported business email communication and newsletter/bulk email workflows, including monitoring and email authentication configuration.
 
 ### Cybersecurity Labs & Notes
 
@@ -88,6 +90,6 @@ I am currently building my portfolio toward junior roles in:
 
 ## Connect
 
-* GitHub: Ntaflos
-* LinkedIn: https://www.linkedin.com/in/george-ntaflos/
-* Portfolio: --
+* GitHub: [Ntaflos](https://github.com/Ntaflos)
+* LinkedIn: [George Ntaflos](https://www.linkedin.com/in/george-ntaflos/)
+* Portfolio: Coming soon
