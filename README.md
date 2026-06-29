@@ -1,16 +1,93 @@
-## Hi there 👋
+# Hi, I'm George 👋
 
-<!--
-**Ntaflos/Ntaflos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information and Communication Systems Engineer transitioning into Cybersecurity, with a focus on Application Security, Web Security Testing, and Cloud/Email Security.
 
-Here are some ideas to get you started:
+My background combines software engineering, computer science teaching, hands-on IT troubleshooting, web maintenance, DNS/email authentication, Google Workspace administration, AWS SES configuration, and structured cybersecurity learning through the Google Cybersecurity Certificate and TryHackMe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+* Application Security
+* Web Security Testing
+* Penetration Testing Fundamentals
+* Cloud and Email Security
+* Linux and Networking Fundamentals
+* Secure Web Application Design
+
+## Cybersecurity Learning Path
+
+* Google Cybersecurity Certificate — In Progress
+
+  * Course 1: Completed
+  * Course 2: Completed
+  * Course 3: Connect and Protect: Networks and Network Security — In Progress
+* TryHackMe Pre Security Path — Completed
+* TryHackMe Junior Penetration Tester Path — In Progress
+
+## Technical Background
+
+### Programming & Web
+
+* Java
+* Python
+* C / C++
+* JavaScript
+* HTML / CSS
+* SQL
+* WordPress
+* Elementor
+* Spring Boot
+* MVC Architecture
+
+### IT, Cloud & Infrastructure
+
+* Windows installation and troubleshooting
+* Linux command-line fundamentals
+* Router and basic network configuration
+* DNS management
+* SSL renewal and domain administration
+* Google Workspace administration
+* AWS SES setup for business email/newsletter infrastructure
+* SPF, DKIM, DMARC and email authentication fundamentals
+
+## Featured Projects
+
+### Spatial & Spatio-Textual Data Visualization Platform
+
+Academic software engineering project developed as part of my diploma thesis at the University of the Aegean.
+Built with Java, Spring Boot, MVC architecture, HTML, CSS, JavaScript, Leaflet, Hibernate and GeoJSON.
+
+The application allows users to import spatial data from multiple sources, execute queries, and visualize the results on an interactive map.
+
+### Business Email & Newsletter Infrastructure
+
+Hands-on business project involving AWS SES, Google Workspace, DNS records, domain authentication and email deliverability.
+The setup supported business email communication and newsletter/bulk email workflows, including monitoring and email authentication configuration.
+
+### Cybersecurity Labs & Notes
+
+Ongoing documentation of my cybersecurity learning path through TryHackMe, Google Cybersecurity Certificate, Linux, networking and web security labs.
+
+## Professional Strengths
+
+* Strong problem-solving mindset
+* Ability to explain complex technical topics clearly
+* Teaching experience in Computer Science and algorithmic thinking
+* Practical IT troubleshooting experience
+* Business-oriented approach to technical solutions
+* Structured learning path toward Application Security and Web Security Testing
+
+## Career Direction
+
+I am currently building my portfolio toward junior roles in:
+
+* Application Security
+* Web Security Testing
+* Penetration Testing
+* Cloud Security
+* Cybersecurity Analysis
+
+## Connect
+
+* GitHub: Ntaflos
+* LinkedIn: https://www.linkedin.com/in/george-ntaflos/
+* Portfolio: --
